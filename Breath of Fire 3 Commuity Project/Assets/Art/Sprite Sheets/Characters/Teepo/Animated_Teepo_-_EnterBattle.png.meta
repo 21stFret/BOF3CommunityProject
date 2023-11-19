@@ -1,0 +1,853 @@
+fileFormatVersion: 2
+guid: 572215d96905e1542a98d8076b3b7d0d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animated_Teepo_-_EnterBattle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 884
+        width: 140
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910beeabeea5bff46a883cd7a56f2d75
+      internalID: -343450193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Teepo_-_EnterBattle_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 884
+        width: 140
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3badef491abcc9347a302bc5f2b2d5ed
+      internalID: 1267870186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Teepo_-_EnterBattle_2
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 884
+        width: 140
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd819ee0917b2e14981356bd2925cfa7
+      internalID: -1231758134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Teepo_-_EnterBattle_3
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 884
+        width: 140
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cbcc2244a512748852329e5a352a4b
+      internalID: 842750321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Teepo_-_EnterBattle_4
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 884
+        width: 140
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0f43d31ed659643b9d0c3d47065d52
+      internalID: -1367442051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Teepo_-_EnterBattle_5
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 884
+        width: 140
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa09345b1893c354aa13f02eea1b3926
+      internalID: -5998297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Teepo_-_EnterBattle_6
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 884
+        width: 140
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5793fd718104e147a9651056f1e265f
+      internalID: 541421915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Teepo_-_EnterBattle_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744
+        width: 140
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72b30e8c7176864f9730206a9fa5bb7
+      internalID: 286116723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Teepo_-_EnterBattle_8
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 744
+        width: 140
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf0e850fc9765641949892857d942cf
+      internalID: -8040053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Teepo_-_EnterBattle_9
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 744
+        width: 140
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c152f498d224142b82ccd18c9c932e
+      internalID: -353333670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Teepo_-_EnterBattle_10
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 744
+        width: 140
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c81b7a88eaa9240b70110580011b8c
+      internalID: 106468618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Teepo_-_EnterBattle_11
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 744
+        width: 140
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7a9cf49476a6d4786889d6bf19ab86
+      internalID: -939120725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Teepo_-_EnterBattle_12
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 744
+        width: 140
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bddb6f49b069ac54bbac9459ca2a7f4c
+      internalID: 1873819679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Teepo_-_EnterBattle_13
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 744
+        width: 140
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089ab8ceb64eff4499c8b5e058281f4a
+      internalID: 52098811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Teepo_-_EnterBattle_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 604
+        width: 140
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83bb42ca9fa3a34a937576bb30ecf9f
+      internalID: 1576433460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Teepo_-_EnterBattle_15
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 604
+        width: 140
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4e481a7eb3b9f4b943e0e990f269f4
+      internalID: -1628567748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Teepo_-_EnterBattle_16
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 604
+        width: 140
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ff4aa528c604e4eaae47bdab865fa1
+      internalID: 612379787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Teepo_-_EnterBattle_17
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 604
+        width: 140
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6826b11e8959d9d489ff281d740cdcb1
+      internalID: -1378195127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Teepo_-_EnterBattle_18
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 604
+        width: 140
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ea9a46652e29c49935e2d7ac1c9782
+      internalID: 1185229356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Teepo_-_EnterBattle_19
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 604
+        width: 140
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da340e67ba1f5745a8c48cb96937bc3
+      internalID: -2068363126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Teepo_-_EnterBattle_20
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 604
+        width: 140
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4cf5c32cb22fe14ca2fdfdbb5169314
+      internalID: -88479160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Teepo_-_EnterBattle_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 464
+        width: 140
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e29e2b51d9e3284fa7708176480a4bb
+      internalID: -218546454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Teepo_-_EnterBattle_22
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 464
+        width: 140
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f3ad22cfedde743a31d60de7e98289
+      internalID: 1636722577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Teepo_-_EnterBattle_23
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 464
+        width: 140
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52bfac5d1289384981ed9f42b58602e
+      internalID: -1606168251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Teepo_-_EnterBattle_24
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 464
+        width: 140
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df924b5559f47947993d4b87f2deb15
+      internalID: 1266662499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Teepo_-_EnterBattle_25
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 464
+        width: 140
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7621d3fe5f66264abf232592b178a1f
+      internalID: -1378818398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Teepo_-_EnterBattle_26
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 464
+        width: 140
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc2fdf4212287c42a8f10cdf966f8ac
+      internalID: -1386217996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Teepo_-_EnterBattle_27
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 464
+        width: 140
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f30ad4c3558810418d1d182956d29f8
+      internalID: 1700873894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Teepo_-_EnterBattle_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 324
+        width: 140
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4428060ea40264bb04f77d770886fa
+      internalID: -485675830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Teepo_-_EnterBattle_29
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 324
+        width: 140
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f4d7aaa6f215b4e9688a7d603c5839
+      internalID: 1483566568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Teepo_-_EnterBattle_30
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 324
+        width: 140
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1ac6f4e9b7c3740b7499252cc75380
+      internalID: 960087494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Teepo_-_EnterBattle_31
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 324
+        width: 140
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a640cc83baa056942b5c2a834c374d36
+      internalID: -947213025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated_Teepo_-_EnterBattle_32
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 324
+        width: 140
+        height: 140
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c8705fa0364de48986cf0323c0b827
+      internalID: 321348220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8c6a8db3de274bc4e809a5d12ba29028
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Animated_Teepo_-_EnterBattle_0: -343450193
+      Animated_Teepo_-_EnterBattle_1: 1267870186
+      Animated_Teepo_-_EnterBattle_10: 106468618
+      Animated_Teepo_-_EnterBattle_11: -939120725
+      Animated_Teepo_-_EnterBattle_12: 1873819679
+      Animated_Teepo_-_EnterBattle_13: 52098811
+      Animated_Teepo_-_EnterBattle_14: 1576433460
+      Animated_Teepo_-_EnterBattle_15: -1628567748
+      Animated_Teepo_-_EnterBattle_16: 612379787
+      Animated_Teepo_-_EnterBattle_17: -1378195127
+      Animated_Teepo_-_EnterBattle_18: 1185229356
+      Animated_Teepo_-_EnterBattle_19: -2068363126
+      Animated_Teepo_-_EnterBattle_2: -1231758134
+      Animated_Teepo_-_EnterBattle_20: -88479160
+      Animated_Teepo_-_EnterBattle_21: -218546454
+      Animated_Teepo_-_EnterBattle_22: 1636722577
+      Animated_Teepo_-_EnterBattle_23: -1606168251
+      Animated_Teepo_-_EnterBattle_24: 1266662499
+      Animated_Teepo_-_EnterBattle_25: -1378818398
+      Animated_Teepo_-_EnterBattle_26: -1386217996
+      Animated_Teepo_-_EnterBattle_27: 1700873894
+      Animated_Teepo_-_EnterBattle_28: -485675830
+      Animated_Teepo_-_EnterBattle_29: 1483566568
+      Animated_Teepo_-_EnterBattle_3: 842750321
+      Animated_Teepo_-_EnterBattle_30: 960087494
+      Animated_Teepo_-_EnterBattle_31: -947213025
+      Animated_Teepo_-_EnterBattle_32: 321348220
+      Animated_Teepo_-_EnterBattle_4: -1367442051
+      Animated_Teepo_-_EnterBattle_5: -5998297
+      Animated_Teepo_-_EnterBattle_6: 541421915
+      Animated_Teepo_-_EnterBattle_7: 286116723
+      Animated_Teepo_-_EnterBattle_8: -8040053
+      Animated_Teepo_-_EnterBattle_9: -353333670
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

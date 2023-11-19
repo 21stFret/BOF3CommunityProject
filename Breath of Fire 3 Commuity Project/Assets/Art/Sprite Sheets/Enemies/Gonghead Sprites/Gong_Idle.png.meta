@@ -1,0 +1,809 @@
+fileFormatVersion: 2
+guid: 07c1e548fd2753f49a688dd60e49c282
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gong_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 41.032257
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754269c7f8da10846847cb9ef06bf6d5
+      internalID: -2134164891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gong_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 0
+        width: 41.032257
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64014ca623f9779489bd0da21117d138
+      internalID: -1784517355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gong_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 41.032257
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f215d5c25eaa9c418d0f72d963cf396
+      internalID: -818716181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gong_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 0
+        width: 41.032257
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7eaa5f82e587c489fa49e0694cd823
+      internalID: -199235866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gong_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 41.032257
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5003f0bcadd93b24b8b72ac11c5608ba
+      internalID: -817539195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gong_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 0
+        width: 41.032257
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a793bd4029626b4cbd4a462ed44e3af
+      internalID: 2066903415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gong_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 0
+        width: 41.032257
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1699487fbd3e266469816bb839f323e0
+      internalID: 1323424027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gong_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 41.032257
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baba21cee5657d34d9d8a1c00e6c5a09
+      internalID: -44374336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gong_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 0
+        width: 41.032257
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a788455c315c7b4183759336625e3e6
+      internalID: -119794496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gong_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 0
+        width: 41.032257
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc5b25807c387e498ebcb48278ac7cd
+      internalID: -1680004907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gong_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 0
+        width: 41.032257
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd5250e336009a41940f55a1f76779b
+      internalID: 1208477712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gong_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 0
+        width: 41.032257
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a15a0678bbd3e4c8014b027e7fdc2c
+      internalID: 1129384289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gong_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 0
+        width: 41.032257
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e134c47bde8b64409014979d1f9f11b
+      internalID: 870423536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gong_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 0
+        width: 41.032257
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46fa73170ef6fc408ac37a9cad61045
+      internalID: 203155108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gong_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 0
+        width: 41.032257
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b816bd44979f41459752d761f687058
+      internalID: 1771805819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gong_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 0
+        width: 41.032257
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df82018f5ec74664092a933f9792b7e4
+      internalID: 597388565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gong_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 0
+        width: 41.032257
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a29bd79cb69a7044a8f8caa37dd20674
+      internalID: -1994650908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gong_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 0
+        width: 41.032257
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4729c60dbc5bb14ca2480d0f25e8b5d
+      internalID: 1829166972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gong_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 0
+        width: 41.032257
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff493f71a21b61e4289519cc225372e3
+      internalID: -1309764743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gong_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 0
+        width: 41.032257
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f41d7e02a03a254fa350f886873edd9
+      internalID: -145417173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gong_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 0
+        width: 41.032257
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff317060c86a2644b2bf9de957fa219
+      internalID: -787136449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gong_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 0
+        width: 41.032257
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fb2b53d3ae2dc468508fb0e14b3dad
+      internalID: 1128706106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gong_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 0
+        width: 41.032257
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77aa04250147c86499083de3147b086f
+      internalID: 1465382479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gong_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 0
+        width: 41.032257
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a59a30edf4c8e44bd4103fdee883d6
+      internalID: -1005366732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gong_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 0
+        width: 41.032257
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ff37daf34b0a44c850e1a29f3c6a1e
+      internalID: 171689676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gong_Idle_25
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 0
+        width: 41.032257
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 328fa3f036c5c394daba7822277341fb
+      internalID: 511118039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gong_Idle_26
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 0
+        width: 41.032257
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b04fbdedd1f47f4e860cf10cfb6052a
+      internalID: 1570780927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gong_Idle_27
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 0
+        width: 41.032257
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a1d48d2953bd746b447a33ed22cf9b
+      internalID: -1354225400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gong_Idle_28
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 0
+        width: 41.032257
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e70543166500445a3740a81da929f9
+      internalID: -1483535906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gong_Idle_29
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 0
+        width: 41.032257
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a601750708eda894a9595f4984d5a8e8
+      internalID: 731918632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gong_Idle_30
+      rect:
+        serializedVersion: 2
+        x: 1230
+        y: 0
+        width: 41.032257
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f54fd4a4dd033d41bfcf76843227fee
+      internalID: -751630940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3d95c0836233d26459f69d49c6dfa511
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Gong_Idle_0: -2134164891
+      Gong_Idle_1: -1784517355
+      Gong_Idle_10: 1208477712
+      Gong_Idle_11: 1129384289
+      Gong_Idle_12: 870423536
+      Gong_Idle_13: 203155108
+      Gong_Idle_14: 1771805819
+      Gong_Idle_15: 597388565
+      Gong_Idle_16: -1994650908
+      Gong_Idle_17: 1829166972
+      Gong_Idle_18: -1309764743
+      Gong_Idle_19: -145417173
+      Gong_Idle_2: -818716181
+      Gong_Idle_20: -787136449
+      Gong_Idle_21: 1128706106
+      Gong_Idle_22: 1465382479
+      Gong_Idle_23: -1005366732
+      Gong_Idle_24: 171689676
+      Gong_Idle_25: 511118039
+      Gong_Idle_26: 1570780927
+      Gong_Idle_27: -1354225400
+      Gong_Idle_28: -1483535906
+      Gong_Idle_29: 731918632
+      Gong_Idle_3: -199235866
+      Gong_Idle_30: -751630940
+      Gong_Idle_4: -817539195
+      Gong_Idle_5: 2066903415
+      Gong_Idle_6: 1323424027
+      Gong_Idle_7: -44374336
+      Gong_Idle_8: -119794496
+      Gong_Idle_9: -1680004907
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
