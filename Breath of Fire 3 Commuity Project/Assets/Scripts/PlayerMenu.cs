@@ -7,7 +7,7 @@ using UnityEngine.InputSystem;
 public class PlayerMenu : MonoBehaviour
 {
     public GameObject PauseMenu;
-    public GameObject QuitButton;
+    public GameObject FirstButton;
     public EventSystem eventSystem;
     public List<PlayerMenuBox> playerboxes = new List<PlayerMenuBox>();
 
@@ -26,7 +26,7 @@ public class PlayerMenu : MonoBehaviour
             PlayerCharacterManager.instance.playerCharacterController.enabled = !active;
             if (PauseMenu.activeSelf)
             {
-                //eventSystem.SetSelectedGameObject(QuitButton);
+                eventSystem.SetSelectedGameObject(FirstButton);
                 UpdatePlayerBoxes();
             }
         }
@@ -53,7 +53,7 @@ public class PlayerMenu : MonoBehaviour
         PlayerCharacterManager.instance.playerCharacterController.enabled = !active;
         if (PauseMenu.activeSelf)
         {
-            eventSystem.SetSelectedGameObject(QuitButton);
+            eventSystem.SetSelectedGameObject(FirstButton);
         }
     }
 }
